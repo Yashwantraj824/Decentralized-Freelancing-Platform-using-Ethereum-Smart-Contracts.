@@ -1,0 +1,2 @@
+# Decentralized-Freelancing-Platform-using-Ethereum-Smart-Contracts.
+Developed a blockchain-based platform that removes intermediaries using Ethereum smart contracts for secure, automated escrow payments. Integrated AI-based freelancer matching for better hiring accuracy. The system ensures transparent transactions, reduces costs, and improves trust, creating a fair and efficient freelancing ecosystem.
